@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+
+- 💼 Currently working as a Consultant/Research Assistant for the World Bank (DIME) on the Sahel Adaptive Social Protection RCTs.
+- 🧑‍🎓 Incoming PhD Student at UC Davis. Graduated from an MA in International Economics at the Geneva Graduate Institute in 2022 and from a BSc in Economics at the University of Lausanne in 2020.
+- 🔭 Proficient in R, Python, and Stata. I use these tools within impact evaluations, social network analysis projects, and household survey analysis (especially in West and Central Africa).
+- 🌱 Currently learning about GIS applications to economics.
 
 ---
 ### :fire: My Stats :
